@@ -1,5 +1,1 @@
-#!/bin/bash
-HEAD
-echo"ALX School is cool!"
-echo"ALX School"
-up_to_date
+echoALX School
